@@ -1,7 +1,7 @@
 # catalan-gender-bias-embeddings
 
 ## Overview
-This project investigates **gender bias in Catalan word embeddings**. The goal is to analyze how adjectives associated with masculine and feminine pronouns are represented in a distributional semantic space. It also aims at quantify potential bias. The analysis combines **quantitative metrics (cosine similarity, Spearman correlation, bias scores)** with **linguistically-informed qualitative visualizations**.
+This project investigates **gender bias in Catalan word embeddings**. The goal is to analyze how adjectives associated with masculine and feminine pronouns are represented in a distributional semantic space. It also aims at quantify potential bias. The analysis combines **quantitative metrics (cosine similarity, Spearman correlation, bias scores)** with **linguistically-informed qualitative visualizations**. This project was developed as part of my MSc in Theoretical and Applied Linguistics for the Computational Semantics course at Universitat Pompeu Fabra.
 
 ## Dataset
 The study uses a list of Catalan adjectives paired with masculine and feminine pronouns. Adjectives are categorized into five semantic groups:  
