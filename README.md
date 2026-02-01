@@ -40,6 +40,6 @@ Limited size of adjective lists and embeddings subset (100k words) may restrict 
 This repository is licensed under the **MIT License** – see `LICENSE` for details.
 
 ## Authors
-- Roberto Punzano 
-- Victòria Ferrando
+- Roberto Punzano
+- Victòria Ferrando (https://github.com/dramaqueenvee)
 - Paula Jiménez
