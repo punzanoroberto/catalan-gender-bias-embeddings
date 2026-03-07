@@ -42,4 +42,4 @@ This repository is licensed under the **MIT License** – see `LICENSE` for deta
 ## Authors
 - Roberto Punzano
 - Victòria Ferrando (https://github.com/dramaqueenvee)
-- Paula Jiménez
+- Paula Jiménez (https://github.com/paulajimenez27)
